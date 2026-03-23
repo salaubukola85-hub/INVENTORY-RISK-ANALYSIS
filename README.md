@@ -7,7 +7,7 @@ This project analyzes inventory data from a growing distribution company that ma
 The company is facing challenges in managing its inventory efficiently. There are concerns that too much capital is tied up in stock, while some products may still be at risk of stockouts. Additionally, reliance on certain suppliers and inventory distribution across warehouses may be creating further exposure.
 
 # Objectives
-Identify overstocked and understocked products
+- Identify overstocked and understocked products
 Evaluate capital tied up in inventory
 Analyze supplier dependency risk
 Assess warehouse distribution and exposure
